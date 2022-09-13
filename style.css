@@ -1,0 +1,58 @@
+body{
+    overflow-x: hidden;
+}
+.header{
+    background-color: #f7f6f4;
+}
+.nav{
+    background-color: #ece8d9;
+}
+.ff{
+    font-family: "SF Pro", sans-serif;
+}
+.font{
+    font-size: 12.9px;
+}
+.style{
+    font-size: 67.2px;
+}
+.dm{
+    font-family: "dm serif display", serif;
+    color: #384a62;
+}
+.lh{
+    line-height: 50px;
+}
+.hand{
+    margin-left: 170px;
+}
+.justify{
+    justify-content: center;
+}
+.twi{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.ft{
+    font-size: 15px;
+}
+.bg{
+    background-color: #edf6fd;
+}
+footer{
+    background-color: #384a62;
+}
+.n{
+    background-color: #cbcac8;
+}
+
+
+@media screen and (max-width: 760px){
+    .style{
+       font-size: 35px; 
+    }
+    .prin{
+        height: 25px;
+    }
+ }
